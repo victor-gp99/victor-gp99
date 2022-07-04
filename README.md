@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ... I'm very interested in learning more about myself, others, and the world around me.
 
 
-![alt text](https://github.com/victor-gp99/victor-gp99/blob/main/cv2.png)
+![alt text](https://github.com/victor-gp99/victor-gp99/blob/main/cv.png)
