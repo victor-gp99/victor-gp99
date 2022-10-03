@@ -4,7 +4,7 @@
 
 -->
 - 🔭 I’m currently working on ... Telegram Bot.
-- 🌱 I’m currently learning ... Cloud Arquitecture Fundamentals Azure.
+- 🌱 I’m currently learning ... Cloud Security in Azure.
 - 👯 I’m looking to collaborate on ... Any development project.
 - 🤔 I’m looking for help with ... knowledge in Cibersecurity.
 - 💬 Ask me about ... anything of tech stuffs. 
