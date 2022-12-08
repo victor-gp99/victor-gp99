@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ... Any development project.
 - 🤔 I’m looking for help with ... knowledge in Cibersecurity.
 - 💬 Ask me about ... anything of tech stuffs. 
-- 📫 How to reach me: ... [Link text Here](www.linkedin.com/in/victoredgp1999)
+- 📫 How to reach me: ... [My Linkedin](www.linkedin.com/in/victoredgp1999/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm very interested in learning more about myself, others, and the world around me.
 
