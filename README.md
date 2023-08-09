@@ -5,7 +5,7 @@
 -->
 - 🔭 I’m currently working on ... Telegram Bot.
 - 🌱 I’m currently learning ... Cloud Security in Azure.
-- 👯 I’m looking to collaborate on ... Any development project.
+- 👯 I’m looking to collaborate on ... Any development project focused in cibercurity aspects.
 - 🤔 I’m looking for help with ... knowledge in Cibersecurity.
 - 💬 Ask me about ... anything of tech stuffs. 
 - 📫 How to reach me: ... [My Linkedin](https://www.linkedin.com/in/victoredgp1999/)
