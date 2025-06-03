@@ -3,8 +3,8 @@
 **victor-gp99/victor-gp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 🔭 I’m currently working on ... Mobysuite.
-- 🌱 I’m currently learning ... Cloud Security in Azure.
+- 🔭 I’m currently working on ... Pentest Projects.
+- 🌱 I’m currently learning ... CEH path.
 - 👯 I’m looking to collaborate on ... Cibersecuirity projects.
 - 🤔 I’m looking for help with ... knowledge in Cibersecurity.
 - 💬 Ask me about ... anything of tech stuffs. 
